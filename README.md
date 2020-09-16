@@ -2,6 +2,8 @@
 
 ##### 1. create project and ubuntu VM on GCP
 
+https://developers.line.biz/
+
 ##### 2. create provider to get Line Channel access token and Channel secret
 
 ##### 3. ssh into ubuntu VM on broswer
